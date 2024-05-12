@@ -1,7 +1,7 @@
 # Football-match-prediction
 
-Application for predicting the result of a football match
-Random Forest, CNN (Convolutional Neural Network), LSTM (Long Short-Term Memory) were used
+Application for predicting the result of a football match.
+Random Forest, CNN (Convolutional Neural Network), LSTM (Long Short-Term Memory) were used.
 The following accuracies were obtained:
 
 |              | Training data  | Validation data |
